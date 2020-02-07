@@ -2,10 +2,10 @@
 
 Follow the sample bellow
 
-## Your name 
+## meshack muta 
 
-Fun fact: Something interesting about you
+Fun fact: developer who are using windows
 
-- Email [youremailaddress](youremailaddress)
-- GitHub [yourname](https://github.com/username)
+- Email [meshackmuta707@gmail.com](meshackmuta707@gmail.com)
+- GitHub [meshackmuta](https://github.com/meshackmuta)
  
