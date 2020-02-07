@@ -2,10 +2,9 @@
 
 Follow the sample bellow
 
-## Your name 
+## kelvin mwaselela
 
-Fun fact: Something interesting about you
+Fun fact: passionate in programming, like working with new technology,reading tech articles listening to ispiration stories and faith storie most favourite eating delicious food
 
-- Email [youremailaddress](youremailaddress)
-- GitHub [yourname](https://github.com/username)
- 
+- Email [youremailaddress](kelvinmwaselela@gmail.com)
+- GitHub [yourname](https://github.com/kevygraphics)
